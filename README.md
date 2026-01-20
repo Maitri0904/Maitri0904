@@ -3,7 +3,7 @@
 <p>
 🎓 Data Science Student at Navrachna University <br>
 📊 Interested in Data Analysis, NLP, Time Series Forecasting, Machine Learning & AI <br>
-📍 Vadodara, India
+📍 Vadodara, Gujrat, India
 </p>
 
 <hr>
